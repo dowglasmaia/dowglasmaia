@@ -1,18 +1,23 @@
-### Hi there 👋
 
-I'm Dowglas Maia,  I'm a Java Software Developer, and I've been working in tech since 2018. 
+<h1 align="center">Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"> </h2>
 
-[![Linkedin: dowglasmaia](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dowglasmaia/)](https://www.linkedin.com/in/dowglasmaia/)
+<h4 align="center"> My name is Dowglas Maia, I'm a Java Software Developer, and I've been working in tech since 2018. </h4>
 
-[![Youtube: dowglasmaia](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCvTCKNpGU8TTOE7MP4vmjDA)](https://www.youtube.com/channel/UCvTCKNpGU8TTOE7MP4vmjDA)
-____
+<p align="center">
+  <img height="520px" src="https://github.com/dowglasmaia/imd-readme/blob/main/dev-imd-readme.gif?raw=true" />
+
+<p align="center">
+	<a href="https://github.com/dowglasmaia"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/dowglasmaia/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.youtube.com/channel/UCvTCKNpGU8TTOE7MP4vmjDA"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="youtube"/></a>
+</p>
+
 
 ### 📹 Recent Videos on YouTube (In Portuguese)!
 - [Java + Spring Boot| 05: Implementando a Integração entra API de Employee e API de Filial.](https://www.youtube.com/watch?v=0vCEM0cqX1M)
-____
+
 
 ## ⚡ Technologies
-
 These are some of the technologies and tools that I work with:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
@@ -30,3 +35,10 @@ These are some of the technologies and tools that I work with:
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<p align="center">
+ <a href="https://github.com/ValdirCezar/">
+ <img height="137px" src="https://github-readme-stats.vercel.app/api?username=dowglasmaia&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+ <!-- wi*quL3fcV -->
+ <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowglasmaia&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+ 
