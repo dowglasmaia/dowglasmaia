@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"> </h2>
 
-<h4 align="center"> My name is Dowglas Maia, I'm a Java Software Developer, and I've been working in tech since 2018. </h4>
+<h4 align="center"> My name is Dowglas Maia, I am a committed and dedicated professional with solid experience in Back-End development, having high skills in Java and Spring Boot. I have a growing interest in CI/CD technologies and excel in dynamic environments where collaboration and innovation are essential for achieving success.</h4>
 
 <p align="center">
   <img height="520px" src="https://github.com/dowglasmaia/imd-readme/blob/main/dev-imd-readme.gif?raw=true" />
