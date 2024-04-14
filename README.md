@@ -14,7 +14,7 @@
 
 
 ### 📹 Recent Videos on YouTube (In Portuguese)!
-- [Java + Spring Boot| 05: Implementando a Integração entra API de Employee e API de Filial.](https://www.youtube.com/watch?v=0vCEM0cqX1M)
+OpenTelemetry and Jaeger in a Java Application with SpringBoot 3 <a href="https://youtu.be/o101JLsEEiY?si=8o7jfxre3m-5vplP" target="_blank">step-by-step walkthrough video</a>
 
 
 ## ⚡ Technologies
