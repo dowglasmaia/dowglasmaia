@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"> </h2>
 
-<h4 align="center"> My name is Dowglas Maia, I am a committed and dedicated professional with solid experience in Back-End development, having high skills in Java and Spring Boot. I have a growing interest in CI/CD technologies and excel in dynamic environments where collaboration and innovation are essential for achieving success.</h4>
+<h4 align="center">
+	My name is Dowglas Maia, I am Java Software Developer with extensive experience in developing Restful APIs, primarily using Java in conjunction with Spring ecosystem frameworks. My expertise includes effectively implementing microservices, following clean code practices and SOLID principles, with a focus on 	optimizing and ensuring resilience of applications, always aiming to add value to the business.
+</h4>
 
 <p align="center">
   <img height="520px" src="https://github.com/dowglasmaia/imd-readme/blob/main/dev-imd-readme.gif?raw=true" />
