@@ -14,7 +14,9 @@
 
 
 ### 📹 Recent Videos on YouTube (In Portuguese)!
-OpenTelemetry and Jaeger in a Java Application with SpringBoot 3 <a href="https://youtu.be/o101JLsEEiY?si=8o7jfxre3m-5vplP" target="_blank">step-by-step walkthrough video</a>
+OpenTelemetry and Jaeger in a Java Application with SpringBoot 3 <a href="https://youtu.be/o101JLsEEiY?si=8o7jfxre3m-5vplP" target="_blank">step-by-step walkthrough video</a> <br>
+Circuit Breaker in a Java Application with SpringBoot 3 <a href="https://youtu.be/rg2UeYZ08ow?si=uLmmxsL7ZvlOvBtp" target="_blank">step-by-step walkthrough video</a><br>
+Unit Test with JUnit and Mockito in a Java Application with Spring WebFlux <a href="https://youtu.be/HmbeHv_nyMs?si=oS7Ky93F6W59Qq59" target="_blank">step-by-step walkthrough video</a><br>
 
 
 ## ⚡ Technologies
