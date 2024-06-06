@@ -6,7 +6,7 @@
 </h4>
 
 <p align="center">
-  <img height="520px" src="https://github.com/dowglasmaia/imd-readme/blob/main/dev-imd-readme.gif?raw=true" />
+  <img height="520px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif?raw=true" />
 
 <p align="center">
 	<a href="https://github.com/dowglasmaia"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
