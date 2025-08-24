@@ -2,7 +2,10 @@
 <h1 align="center">Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"> </h2>
 
 <h4 align="center">
-	My name is Dowglas Maia, I am Java Software Developer with extensive experience in developing Restful APIs, primarily using Java in conjunction with Spring ecosystem frameworks. My expertise includes effectively implementing microservices, following clean code practices and SOLID principles, with a focus on 	optimizing and ensuring resilience of applications, always aiming to add value to the business.
+Software Engineer with a strong background in backend development, cloud architecture, and distributed systems.
+I’ve designed and scaled microservices for high-traffic platforms in banking, payments, and digital identity — processing over 1M requests per day in production. My core stack includes Java, Spring Ecosystem, and AWS, complemented by experience with reactive systems (WebFlux), asynchronous messaging (Kafka/SQS), and infrastructure as code (Terraform & CDK).
+
+I’m passionate about clean architecture, performance optimization, and building secure, high-impact APIs that solve real business problems. Beyond coding, I collaborate closely with cross-functional teams (Product, QA, DevOps, Security) and stakeholders to ensure alignment between business and technical goals — accelerating delivery cycles and reducing miscommunication across areas.
 </h4>
 
 <p align="center">
